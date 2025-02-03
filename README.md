@@ -56,7 +56,7 @@ npm run build
 npm run lint
 ```
 
-### Структура проекта
+<!-- ### Структура проекта
 chat/
 ├── public/                  # Статические файлы и index.html
 ├── src/
@@ -72,5 +72,5 @@ chat/
 ├── package.json             # Метаданные проекта и список зависимостей
 ├── postcss.config.js        # Конфигурация PostCSS (с Tailwind CSS)
 ├── tailwind.config.js       # Конфигурация Tailwind CSS
-└── vue.config.js            # Конфигурация Vue CLI
+└── vue.config.js            # Конфигурация Vue CLI -->
 ![alt text](./public/image.png)
